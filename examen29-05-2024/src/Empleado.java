@@ -1,9 +1,5 @@
-import java.util.Collections;
-import java.util.Comparator;
-
 public class Empleado {
     
-
     private int id;
     private String nombre;
     private String apellido;
